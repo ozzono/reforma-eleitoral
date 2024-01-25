@@ -10,8 +10,8 @@ Assim sendo, elenquei tópicos que tornaria o sistema eleitoral mais representat
     - Facilitar criação de partidos
 1. Voto distrital puro com segundo turno também para cargos legislativos;
     - Semi-presidencialismo (**SÓ TEM CHANCE DE FUNCIONAR SE OS DEPUTADOS FOREM ELEITOS POR DISTRITO**):
-        - representante de estado eleito diretamente
-        - representante de governo eleito indiretamente;
+        - Presidente: representante de estado eleito diretamente
+        - Primeiro Ministro: representante de governo eleito indiretamente;
 1. Recall político (possibilidade de revogar o mandato e eleger outro no meio do exercício) para todos os cargos eletivos;
 1. Redução do número de deputados 100% proporcional à população;
 1. Exercício de Senador reduzido a 6 anos, trocando um a cada 2 anos.
