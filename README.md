@@ -6,6 +6,8 @@ Assim sendo, elenquei tópicos que tornaria o sistema eleitoral mais representat
 1. Fim do foro por prerrogativa de função - foro privilegiado
 1. Fim do quociente eleitoral (voto proporcional);
 1. Fim do voto obrigatório;
+1. Fim de qualquer voto parlamentar por bancada ou indireto;
+1. Fim de qualquer voto parlamentar secreto;
 1. Candidatura avulsa (sem vínculo partidário);
     - Facilitar criação de partidos
 1. Voto distrital puro com segundo turno também para cargos legislativos;
